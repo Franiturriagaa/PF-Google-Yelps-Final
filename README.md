@@ -47,7 +47,7 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 ## Stack Tecnológico
 
 ### Lenguajes de programación
-Python![KPI's](./Data/Images/Icons/python-logo.png)
+Python![Python](./Data/Images/Icons/python-logo.png)
 
 ### Control de Versiones y Colaboración
 Git y Github
