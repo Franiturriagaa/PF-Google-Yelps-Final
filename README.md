@@ -1,6 +1,6 @@
 # Proyecto-Final-Google-Yelps
 ## OpportUnity Team
-![Portada](./Data/Images/Opportunity_logo_bg.png)
+![Portada](./Data/Images/OpporUnity_Banner.png)
 
 ## Integrantes y Roles
 
