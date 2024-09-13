@@ -47,7 +47,7 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 ## Stack Tecnológico
 
 ### Lenguajes de programación
-Python ![Python](./Data/Images/Icons/python-logo.png)
+Python ![Python]<img src="Data\Images\Icons\pyhon-logo.png" title="Git" alt="Git" width="40" height="40"/>
 
 ### Control de Versiones y Colaboración
 Git y Github
@@ -71,7 +71,7 @@ Google Cloud, BigQuery
 Airflow, Google Functions, Google Scheduler
 
 ## Desarrollo de Aplicaciones Web
-Streamlit
+![Top12Ciudades](./Data/Images/top_12_ciudades.png)Streamlit
 
 
 ## Análisis Exploratorio de Datos 
@@ -80,5 +80,9 @@ Streamlit
 
 ### Top 20 categorias mas comunes (Google Maps)
 ![Top20Categorias](./Data/Images/Top_Categorias.png)
-## Diagrama de Gantt
+
+## Diagrama de GanttProject (Division de tareas claras)
 ![DiagramaGanttProject](./Data/Images/Diagrama_Gantt_Project.png)
+
+## Diagrama hecho en Asana (A quien se le asigna cada tarea)
+![DiagramaGanttProject](./Data/Images/Diagrama_Gantt_Asana.png)
