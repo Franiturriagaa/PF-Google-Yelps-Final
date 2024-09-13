@@ -47,13 +47,13 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 ## Stack Tecnológico
 
 ### Lenguajes de programación
-<img src="Data\Images\Icons\pyhon-logo.png" title="Git" alt="Git" width="40" height="40"/> Python 
+<img src="Data\Images\Icons\pyhon-logo.png" title="Python" alt="python" width="40" height="40"/> Python 
 
 ### Control de Versiones y Colaboración
-<img src="Data\Images\Icons\git.png" title="Git" alt="Git" width="40" height="40"/> Git y <img src="Data\Images\Icons\github.png" title="Git" alt="Git" width="40" height="40"/> Github
+<img src="Data\Images\Icons\git.png" title="Git" alt="Git" width="40" height="40"/> Git <img src="Data\Images\Icons\github.png" title="Git" alt="Git" width="40" height="40"/> Github
 
 ### Entornos de desarrollo y edición de Código
-Visual Studio Code y Jupyter
+<img src="Data\Images\Icons\VS-code-logo.png" title="VSCode" alt="vscode" width="40" height="40"/>Visual Studio Code <img src="Data\Images\Icons\jupyter.png" title="VSCode" alt="vscode" width="40" height="40"/> Jupyter
 
 ### Análisis y visualización de los datos
 Pandas, NumPy, Matplotlib, Seaborn, Power BI
