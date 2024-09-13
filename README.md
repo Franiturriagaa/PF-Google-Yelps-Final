@@ -1,5 +1,6 @@
 # Proyecto-Final-Google-Yelps
-
+## OpportUnity Team
+![Portada](./Data/Images/Opportunity_logo_bg.png)
 
 ## Integrantes y Roles
 
@@ -46,7 +47,7 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 ## Stack Tecnológico
 
 ### Lenguajes de programación
-Python![KPI's](./Data/Images/python-logo.png)
+Python![KPI's](./Data/Images/Icons/python-logo.png)
 
 ### Control de Versiones y Colaboración
 Git y Github
@@ -73,5 +74,7 @@ Airflow, Google Functions, Google Scheduler
 Streamlit
 
 
+## Análisis Exploratorio de Datos 
 
+## Diagrama de Gantt
 
