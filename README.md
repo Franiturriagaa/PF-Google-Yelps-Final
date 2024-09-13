@@ -76,6 +76,10 @@ Streamlit
 
 
 ## Análisis Exploratorio de Datos 
+### Distribución de negocios top 12 ciudades (Yelps)
+![Top12Ciudades](./Data/Images/top_12_ciudades.png)
 
+### Top 20 categorias mas comunes (Google Maps)
+![Top20Categorias](./Data/Images/Top_Categorias.png)
 ## Diagrama de Gantt
 
