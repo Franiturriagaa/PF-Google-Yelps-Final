@@ -41,7 +41,7 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 
 
 ### KPI's
-![KPI's](./Data/Images/kpis.pngData\Images\kpis.png)
+![KPI's](./Data/Images/kpis.png)
 
 ## Stack Tecnológico
 
