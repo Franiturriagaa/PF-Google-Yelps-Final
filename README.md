@@ -42,7 +42,20 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 
 
 ### KPI's
-![KPI's](./Data/Images/kpis.png)
+En este caso nos basamos en intermensuales porcentuales donde 
+
+$R_i$ = Número total de reviews del mes $i$
+
+$PRP_i$ = Proporción de reviews positivas del mes $i$
+
+$PRN_i$ = Proporción de Reviews Negativas del mes $i$
+
+|Nombre|Fórmula|Meta|Interpretación|
+|:-----|:-----:|:--:|:-------------|
+|Cambio total de reviews|$\left(\frac{R_i-R_{i-1}}{R_{i-1}}\right).100$%|$+5$%|Cambio en la visibilidad|
+|Cambio proporción de reviews positivas|$\left(\frac{PRP_i-PRP_{i-1}}{PRP_{i-1}}\right).100$%|$+5$%|Cambio en la opinión positiva|
+|Cambio proporción de reviews negativa|$\left(\frac{PRN_i-PRN_{i-1}}{PRN_{i-1}}\right).100$%|$-5$%|Cambio en la opinión negativa|
+
 
 ## Stack Tecnológico
 
@@ -53,25 +66,31 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 <img src="Data\Images\Icons\git.png" title="Git" alt="Git" width="40" height="40"/> Git <img src="Data\Images\Icons\github.png" title="Git" alt="Git" width="40" height="40"/> Github
 
 ### Entornos de desarrollo y edición de Código
-<img src="Data\Images\Icons\VS-code-logo.png" title="VSCode" alt="vscode" width="40" height="40"/>Visual Studio Code <img src="Data\Images\Icons\jupyter.png" title="VSCode" alt="vscode" width="40" height="40"/> Jupyter
+<img src="Data\Images\Icons\VS-code-logo.png" title="VSCode" alt="vscode" width="40" height="40"/> Visual Studio Code 
+<img src="Data\Images\Icons\jupyter.png" title="VSCode" alt="vscode" width="40" height="40"/> Jupyter
 
 ### Análisis y visualización de los datos
-Pandas, NumPy, Matplotlib, Seaborn, Power BI
+<img src="Data\Images\Icons\pandas-logo-300.png" title="Pandas" alt="pandas" width="40" height="40"/> Pandas 
+<img src="Data\Images\Icons\numpy-original.svg" title="VSCode" alt="vscode" width="40" height="40"/> NumPy 
+<img src="Data\Images\Icons\matplotlib-original.svg" title="VSCode" alt="vscode" width="40" height="40"/> Matplotlib 
+<img src="Data\Images\Icons\seaborn-icon.svg" title="VSCode" alt="vscode" width="40" height="40"/> Seaborn 
+<img src="Data\Images\Icons\powerbi.svg" title="VSCode" alt="vscode" width="40" height="40"/> Power BI
 
 ### Procesamiento de lenguaje natural
-NLTK
+<img src="Data\Images\Icons\NLTK-85.webp" title="VSCode" alt="vscode" width="40" height="40"/> NLTK
 
 ## Aprendizaje Automático
-Scikit-learn
+<img src="Data\Images\Icons\scikit-learn-logo-big.png" title="VSCode" alt="vscode" width="40" height="40"/> Scikit-learn
 
 ### Plataformas de Computación en la nube
-Google Cloud, BigQuery
+<img src="Data\Images\Icons\scikit-learn-logo-big.png" title="VSCode" alt="vscode" width="40" height="40"/> Google Cloud BigQuery
  
-## Orquestación y Automatización de flujos
-Airflow, Google Functions, Google Scheduler
+## Orquestación y Automatización de flujos 
+<img src="Data\Images\Icons\Functions.png" title="VSCode" alt="vscode" width="40" height="40"/> Google Functions 
+<img src="Data\Images\Icons\Scheduler.png" title="VSCode" alt="vscode" width="40" height="40"/> Google Scheduler
 
 ## Desarrollo de Aplicaciones Web
-Streamlit
+<img src="Data\Images\Icons\streamlit-original.svg" title="VSCode" alt="vscode" width="40" height="40"/> Streamlit
 
 
 ## Análisis Exploratorio de Datos 
