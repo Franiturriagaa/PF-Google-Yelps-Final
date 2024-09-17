@@ -40,6 +40,12 @@ Nos enfocamos en la ciudad de Filadelfia (EE.UU),  entre 2015 y 2022.
 ### Objetivos Específicos
 Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos realizar un análisis riguroso para sugerir las áreas de inversión más favorables, mediante un sistema predictivo que detecte patrones a partir de datos clave del mercado.
 
+1. Recopilar datos
+* Extrar y limpiar los datos de Google Yelps y Google Maps
+* Integrar estos datos en un Data Warehouse que permita el acceso y manipulas grandes volumenes de datos.
+2. Realizar analisis de sentimiento
+
+3. 
 
 ### KPI's
 En este caso nos basamos en intermensuales porcentuales donde 
@@ -52,9 +58,9 @@ $PRN_i$ = Proporción de Reviews Negativas del mes $i$
 
 |Nombre|Fórmula|Meta|Interpretación|
 |:-----|:-----:|:--:|:-------------|
-|Cambio total de reviews|$\left(\frac{R_i-R_{i-1}}{R_{i-1}}\right).100$%|$+5$%|Cambio en la visibilidad|
-|Cambio proporción de reviews positivas|$\left(\frac{PRP_i-PRP_{i-1}}{PRP_{i-1}}\right).100$%|$+5$%|Cambio en la opinión positiva|
-|Cambio proporción de reviews negativa|$\left(\frac{PRN_i-PRN_{i-1}}{PRN_{i-1}}\right).100$%|$-5$%|Cambio en la opinión negativa|
+|Variación de la Calificación Promedio por Estrellas|$\left(\frac{R_i-R_{i-1}}{R_{i-1}}\right).100$%|$+5$%|Cambio en calificacion|
+|Comparación de Reviews con la Competencia|$\left(\frac{PRP_i-PRP_{i-1}}{PRP_{i-1}}\right).100$%|$+5$%|Mejora en las Reviews|
+|Crecimiento de la Base de Clientes|$\left(\frac{PRN_i-PRN_{i-1}}{PRN_{i-1}}\right).100$%|$-5$%|Cambio en la |
 
 
 ## Stack Tecnológico
