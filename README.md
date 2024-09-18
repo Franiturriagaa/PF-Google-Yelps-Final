@@ -18,10 +18,10 @@
 * ML / :
 
 ## Tabla de contenido
-1. [Objetivos Específicos](#objetivos-especificos)
-2. [KPI's](#)
-3. [Stack Tecnológico]()
-4. [EDA]()
+1. [Objetivos Específicos](#objetivos-específicos)
+2. [KPI's](#kpi's)
+3. [Stack Tecnológico](#stack-tecnológico)
+4. [EDA](#análisis-exploratorio-de-datos)
 ## Introducción
 ## Misión
 
