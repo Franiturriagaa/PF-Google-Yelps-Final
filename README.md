@@ -22,7 +22,7 @@
 2. [KPI's](#kpi's)
 3. [Stack Tecnológico](#stack-tecnológico)
 4. [EDA](#análisis-exploratorio-de-datos)
-## Introducción
+
 ## Misión
 
 Nuestro propósito es ofrecer soluciones innovadoras impulsadas por la ciencia de datos, adaptándonos a las necesidades únicas de cada cliente para generar resultados medibles y estratégicos.
@@ -94,7 +94,8 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 <img src="Data\Images\Icons\scikit-learn-logo-big.png" title="VSCode" alt="vscode" width="40" height="40"/> Scikit-learn
 
 ### Plataformas de Computación en la nube
-<img src="Data\Images\Icons\google-cloud-icon.png" title="VSCode" alt="vscode" width="40" height="40"/> Google Cloud <img src="Data\Images\Icons\bigquery.svg" title="VSCode" alt="vscode" width="40" height="40"/> BigQuery
+<img src="Data\Images\Icons\google-cloud-icon.png" title="VSCode" alt="vscode" width="40" height="40"/> Google Cloud 
+<img src="Data\Images\Icons\bigquery.svg" title="VSCode" alt="vscode" width="40" height="40"/> BigQuery
  
 ## Orquestación y Automatización de flujos 
 <img src="Data\Images\Icons\Functions.png" title="VSCode" alt="vscode" width="40" height="40"/> Google Functions 
@@ -102,6 +103,10 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 
 ## Desarrollo de Aplicaciones Web
 <img src="Data\Images\Icons\streamlit-original.svg" title="VSCode" alt="vscode" width="40" height="40"/> Streamlit
+
+## Pipeline
+![Pipeline](./Data/Images/workflow.png)
+
 
 
 ## Análisis Exploratorio de Datos 
