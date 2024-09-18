@@ -54,7 +54,7 @@ Un inversor nos contrató para realizar un análisis de mercado y ofrecerle dife
 Nos enfocamos en la ciudad de Filadelfia (EE.UU),  entre 2015 y 2022.
 <!-- Trabajar en Objetivos Especificos -->
 
-### Objetivos Específicos
+## Objetivos Específicos
 Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos realizar un análisis riguroso para sugerir las áreas de inversión más favorables, mediante un sistema predictivo que detecte patrones a partir de datos clave del mercado.
 
 1. Recopilar datos
@@ -64,7 +64,7 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 
 3. 
 <!-- Trabajar en KPI -->
-### KPI's
+## KPI's
 
 
 
