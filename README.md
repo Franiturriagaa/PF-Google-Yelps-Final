@@ -51,7 +51,7 @@ Agilidad: Somos flexibles y rápidos para adaptarnos a los cambios del entorno y
 Un inversor nos contrató para realizar un análisis de mercado y ofrecerle diferentes propuestas de negocios para invertir su capital en la ciudad de Filadelfia, USA. Usaremos reseñas obtenidas de Yelp y Google maps, para determinar el mejor rubro y las mejores ubicaciones para nuevos locales.
 
 ## Alcance
-Nos enfocamos en la ciudad de Filadelfia (EE.UU),  entre 2015 y 2022.
+El enfoque de nuestro alcance es toda el área comercial que hay en la ciudad de Filadelfia (EE.UU),  entre 2015 y 2022.
 <!-- Trabajar en Objetivos Especificos -->
 
 ## Objetivos Específicos
@@ -94,7 +94,7 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 <img src="Data\Images\Icons\scikit-learn-logo-big.png" title="VSCode" alt="vscode" width="40" height="40"/> Scikit-learn
 
 ### Plataformas de Computación en la nube
-<img src="Data\Images\Icons\scikit-learn-logo-big.png" title="VSCode" alt="vscode" width="40" height="40"/> Google Cloud BigQuery
+<img src="Data\Images\Icons\google-cloud-icon.png" title="VSCode" alt="vscode" width="40" height="40"/> Google Cloud <img src="Data\Images\Icons\bigquery.svg" title="VSCode" alt="vscode" width="40" height="40"/> BigQuery
  
 ## Orquestación y Automatización de flujos 
 <img src="Data\Images\Icons\Functions.png" title="VSCode" alt="vscode" width="40" height="40"/> Google Functions 
