@@ -36,7 +36,7 @@ Un inversor nos contrató para realizar un análisis de mercado y ofrecerle dife
 
 ## Alcance
 Nos enfocamos en la ciudad de Filadelfia (EE.UU),  entre 2015 y 2022.
-
+<!-- Trabajar en Objetivos Especificos -->
 ### Objetivos Específicos
 Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos realizar un análisis riguroso para sugerir las áreas de inversión más favorables, mediante un sistema predictivo que detecte patrones a partir de datos clave del mercado.
 
@@ -46,21 +46,9 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 2. Realizar analisis de sentimiento
 
 3. 
-
+<!-- Trabajar en KPI -->
 ### KPI's
-En este caso nos basamos en intermensuales porcentuales donde 
 
-$R_i$ = Número total de reviews del mes $i$
-
-$PRP_i$ = Proporción de reviews positivas del mes $i$
-
-$PRN_i$ = Proporción de Reviews Negativas del mes $i$
-
-|Nombre|Fórmula|Meta|Interpretación|
-|:-----|:-----:|:--:|:-------------|
-|Variación de la Calificación Promedio por Estrellas|$\left(\frac{R_i-R_{i-1}}{R_{i-1}}\right).100$%|$+5$%|Cambio en calificacion|
-|Comparación de Reviews con la Competencia|$\left(\frac{PRP_i-PRP_{i-1}}{PRP_{i-1}}\right).100$%|$+5$%|Mejora en las Reviews|
-|Crecimiento de la Base de Clientes|$\left(\frac{PRN_i-PRN_{i-1}}{PRN_{i-1}}\right).100$%|$-5$%|Cambio en la |
 
 
 ## Stack Tecnológico
