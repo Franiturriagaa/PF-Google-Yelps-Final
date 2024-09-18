@@ -18,10 +18,10 @@
 * ML / :
 
 ## Tabla de contenido
-1. [Introducción](#instalación-y-requisitos)
-2. []
-3. []
-4. []
+1. [Objetivos Específicos](#instalación-y-requisitos)
+2. [KPI's](#)
+3. [Stack Tecnológico]()
+4. [EDA]()
 ## Introducción
 ## Misión
 
