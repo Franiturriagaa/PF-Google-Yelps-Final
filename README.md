@@ -10,13 +10,29 @@
 * Francisco Iturriaga: Data Analyst.
 * Pablo Cesar: Machine Learning Ops.
 
+## Estructura del Proyecto
+* Data/ : Contiene los archivos de datos utilizados en el proyecto
+* Notebooks/ : Incluye los notebooks de Jupyter con el análisis y modelos.
+* ETL/ :
+* Reports/ :
+* ML / :
+
+## Tabla de contenido
+1. [Introducción](#instalación-y-requisitos)
+2. []
+3. []
+4. []
+## Introducción
 ## Misión
+
 Nuestro propósito es ofrecer soluciones innovadoras impulsadas por la ciencia de datos, adaptándonos a las necesidades únicas de cada cliente para generar resultados medibles y estratégicos.
 
 ## Visión
+
 Ser líderes en la creación de soluciones inteligentes y personalizadas a través del poder de los datos, transformando la manera en que las empresas toman decisiones estratégicas y logrando un impacto positivo en sus resultados.
 
 ## Valores
+
 Innovación continua: Nos desafiamos constantemente a explorar nuevas tecnologías y enfoques disruptivos que impulsen el cambio.
 
 Centrados en el cliente: Escuchamos activamente a nuestros clientes para anticipar sus necesidades y crear experiencias personalizadas y transformadoras.
