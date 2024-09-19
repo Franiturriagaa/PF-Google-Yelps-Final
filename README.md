@@ -90,7 +90,7 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 ### Procesamiento de lenguaje natural
 <img src="Data\Images\Icons\NLTK-85.webp" title="VSCode" alt="vscode" width="40" height="40"/> NLTK
 
-## Aprendizaje Automático
+### Aprendizaje Automático
 <img src="Data\Images\Icons\scikit-learn-logo-big.png" title="VSCode" alt="vscode" width="40" height="40"/> Scikit-learn
 
 ### Plataformas de Computación en la nube
@@ -121,3 +121,5 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 
 ## Diagrama hecho en Asana (A quien se le asigna cada tarea)
 ![DiagramaGanttProject](./Data/Images/Diagrama_Gantt_Asana.png)
+-----
+-----
