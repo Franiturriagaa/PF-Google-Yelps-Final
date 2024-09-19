@@ -2,6 +2,10 @@
 ## OpportUnity Team
 ![Portada](./Data/Images/OpporUnity_Banner.png)
 
+
+<!-- PARTE INTEGRANTES Y ROLES -->
+
+
 ## Integrantes y Roles
 
 * Thomas Bracamonte: Data Engineer.
@@ -10,6 +14,10 @@
 * Francisco Iturriaga: Data Analyst.
 * Pablo Cesar: Machine Learning Ops.
 
+
+<!-- ESTRUCTURA DEL PROYECTO -->
+
+
 ## Estructura del Proyecto
 * Data/ : Contiene los archivos de datos utilizados en el proyecto
 * Notebooks/ : Incluye los notebooks de Jupyter con el análisis y modelos.
@@ -17,11 +25,19 @@
 * Reports/ :
 * ML / :
 
+
+<!-- TABLA DE CONTENIDO -->
+
+
 ## Tabla de contenido
 1. [Objetivos Específicos](#objetivos-específicos)
 2. [KPI's](#kpi's)
 3. [Stack Tecnológico](#stack-tecnológico)
 4. [EDA](#análisis-exploratorio-de-datos)
+
+
+<!-- INTRODUCCION -->
+
 
 ## Misión
 
@@ -52,7 +68,10 @@ Un inversor nos contrató para realizar un análisis de mercado y ofrecerle dife
 
 ## Alcance
 El enfoque de nuestro alcance es toda el área comercial que hay en la ciudad de Filadelfia (EE.UU),  entre 2015 y 2022.
+
+
 <!-- Trabajar en Objetivos Especificos -->
+
 
 ## Objetivos Específicos
 Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos realizar un análisis riguroso para sugerir las áreas de inversión más favorables, mediante un sistema predictivo que detecte patrones a partir de datos clave del mercado.
@@ -63,9 +82,15 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 2. Realizar analisis de sentimiento
 
 3. 
+
+
 <!-- Trabajar en KPI -->
+
+
 ## KPI's
 
+
+<!-- STACK TECNOLOGICO -->
 
 
 ## Stack Tecnológico
@@ -104,9 +129,15 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 ## Desarrollo de Aplicaciones Web
 <img src="Data\Images\Icons\streamlit-original.svg" title="VSCode" alt="vscode" width="40" height="40"/> Streamlit
 
+
+<!-- PIPELINE -->
+
+
 ## Pipeline
 ![Pipeline](./Data/Images/workflow.png)
 
+
+<!-- ANALISIS EXPLORATORIO DE DATOS -->
 
 
 ## Análisis Exploratorio de Datos 
@@ -116,10 +147,15 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 ### Top 20 categorias mas comunes (Google Maps)
 ![Top20Categorias](./Data/Images/Top_Categorias.png)
 
+
+<!-- DIAGRAMA GANTT -->
+
+
 ## Diagrama de GanttProject (Division de tareas claras)
 ![DiagramaGanttProject](./Data/Images/Diagrama_Gantt_Project.png)
 
 ## Diagrama hecho en Asana (A quien se le asigna cada tarea)
 ![DiagramaGanttProject](./Data/Images/Diagrama_Gantt_Asana.png)
+-----
 -----
 -----
