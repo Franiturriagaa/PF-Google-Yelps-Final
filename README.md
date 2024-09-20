@@ -162,7 +162,16 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 
 ## Datasets y fuentes complementarias 
 
+Los datos son extraídos de la plataforma de reseñas **Yelp** y de **Google Maps**, para **Estados Unidos**. Tiene información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas, entre otros. Se puede complementar el análisis con datasets adicionales que ofrezcan información que se considere pertinente al pedido (valores de acciones de las empresas, información geográfica adicional de los locales, etc). Recomendamos fuertemente el uso de **NLP** para procesar la información de las reseñas.
 
+### Diccionario de Datos
+
+- [Diccionario de Datos](https://docs.google.com/document/d/1wp87RQDi-Qv1rIYS5CRFyrhT0XSjsl6IxVqsItqPHKc/edit?usp=sharing)
+
+### Fuentes de datos obligatorias:
+
+- [Dataset de Google Maps](https://drive.google.com/drive/folders/1Wf7YkxA0aHI3GpoHc9Nh8_scf5BbD4DA?usp=drive_link)
+- [Dataset de Yelp](https://drive.google.com/drive/folders/1TI-SsMnZsNP6t930olEEWbBQdo_yuIZF?usp=drive_link)
 -----
 -----
 -----
