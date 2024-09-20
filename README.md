@@ -168,7 +168,7 @@ Los datos son extraídos de la plataforma de reseñas **Yelp** y de **Google Map
 
 - [Diccionario de Datos](https://docs.google.com/document/d/1wp87RQDi-Qv1rIYS5CRFyrhT0XSjsl6IxVqsItqPHKc/edit?usp=sharing)
 
-### Fuentes de datos obligatorias:
+### Fuentes de datos:
 
 - [Dataset de Google Maps](https://drive.google.com/drive/folders/1Wf7YkxA0aHI3GpoHc9Nh8_scf5BbD4DA?usp=drive_link)
 - [Dataset de Yelp](https://drive.google.com/drive/folders/1TI-SsMnZsNP6t930olEEWbBQdo_yuIZF?usp=drive_link)
