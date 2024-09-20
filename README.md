@@ -79,7 +79,7 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 1. Recopilar datos
 * Extrar y limpiar los datos de Google Yelps y Google Maps
 * Integrar estos datos en un Data Warehouse que permita el acceso y manipulas grandes volumenes de datos.
-2. Realizar analisis de sentimiento
+2. 
 
 3. 
 
