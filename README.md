@@ -89,24 +89,22 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 
 ## KPI's
 
-1. **Variación de la calificación promedio de las estrellas:**
+1. **Variación de la calificación promedio de estrellas (%)**:
    
    \[
-   \text{Variación de la calificación promedio (\%)} = 
-   \left(\frac{\text{Calificación promedio de estrellas actual} - \text{Calificación promedio de estrellas periodo anterior}}{\text{Calificación promedio de estrellas periodo anterior}}\right) \times 100
-   \]
-2. **Comparación de reviews con la competencia:**
-   
-   \[
-   \text{Comparación de reviews (\%)} = 
-   \left(\frac{\text{Cantidad de reviews actuales}}{\text{Cantidad de reviews de la competencia en el mismo periodo}} - 1\right) \times 100
+   \text{Variación} = \left( \frac{\text{Calificación promedio de estrellas actual} - \text{Calificación promedio de estrellas del periodo anterior}}{\text{Calificación promedio de estrellas del periodo anterior}} \right) \times 100
    \]
 
-3. **Crecimiento de la base de clientes (\%):**
+2. **Comparación de reviews con la competencia (%)**:
    
    \[
-   \text{Crecimiento de la base de clientes (\%)} = 
-   \left(\frac{\text{Cantidad de clientes actual} - \text{Cantidad de clientes periodo anterior}}{\text{Cantidad de clientes periodo anterior}}\right) \times 100
+   \text{Comparación} = \left( \frac{\text{Cantidad de reviews actuales}}{\text{Cantidad de reviews de la competencia en el mismo periodo}} - 1 \right) \times 100
+   \]
+
+3. **Crecimiento de la base de clientes (%)**:
+   
+   \[
+   \text{Crecimiento} = \left( \frac{\text{Cantidad de clientes actual} - \text{Cantidad de clientes del periodo anterior}}{\text{Cantidad de clientes del periodo anterior}} \right) \times 100
    \]
 
 <!-- STACK TECNOLOGICO -->
