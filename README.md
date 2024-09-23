@@ -89,6 +89,15 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 
 ## KPI's
 
+1. $Variacion\ de\ la\ calificacion\ promedio\ de\ las\ estrellas\ =
+\left(\frac{\text{Calificacion promedio de estrellas actual} - \text{Calificacion promedio de estrellas periodo anterior}}{\text{Calificacion promedio de estrellas periodo anterior}}\right) \times 100$
+
+2. $Comparacion\ de\ reviews\ con\ la\ competencia\ =
+\left(\frac{\text{Cantidad de reviews actuales}}{\text{Cantidad de reviews de la competencia en el mismo periodo}} - 1\right) \times 100$
+
+
+1. $Crecimiento\ de\ la\ base\ de\ clientes\ (\%) =
+\left(\frac{\text{Cantidad de clientes actual} - \text{Cantidad de clientes periodo anterior}}{\text{Cantidad de clientes periodo anterior}}\right) \times 100$
 
 <!-- STACK TECNOLOGICO -->
 
