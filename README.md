@@ -33,6 +33,7 @@
 2. [KPI's](#key-performance-indicators-kpis)
 3. [Stack Tecnológico](#stack-tecnológico)
 4. [EDA](#análisis-exploratorio-de-datos)
+5. [Datasets](#datasets-y-fuentes-complementarias)
 
 
 
@@ -49,19 +50,19 @@ Ser líderes en la creación de soluciones inteligentes y personalizadas a trav�
 
 ## Valores
 
-Innovación continua: Nos desafiamos constantemente a explorar nuevas tecnologías y enfoques disruptivos que impulsen el cambio.
+*Innovación continua*: Nos desafiamos constantemente a explorar nuevas tecnologías y enfoques disruptivos que impulsen el cambio.
 
-Centrados en el cliente: Escuchamos activamente a nuestros clientes para anticipar sus necesidades y crear experiencias personalizadas y transformadoras.
+*Centrados en el cliente*: Escuchamos activamente a nuestros clientes para anticipar sus necesidades y crear experiencias personalizadas y transformadoras.
 
-Data-driven: Tomamos decisiones impulsadas por datos sólidos, buscando siempre soluciones inteligentes y eficientes.
+*Data-driven*: Tomamos decisiones impulsadas por datos sólidos, buscando siempre soluciones inteligentes y eficientes.
 
-Transparencia radical: Priorizamos la honestidad y la claridad en cada paso, asegurando que nuestros clientes comprendan el valor de cada dato y decisión.
+*Transparencia radical*: Priorizamos la honestidad y la claridad en cada paso, asegurando que nuestros clientes comprendan el valor de cada dato y decisión.
 
-Cultura colaborativa: Creemos en la sinergia de equipos diversos y la co-creación con nuestros clientes para lograr innovación real.
+*Cultura colaborativa*: Creemos en la sinergia de equipos diversos y la co-creación con nuestros clientes para lograr innovación real.
 
-Responsabilidad social: Reconocemos el impacto de la tecnología en la sociedad y nos comprometemos a un uso ético y responsable de los datos.
+*Responsabilidad social*: Reconocemos el impacto de la tecnología en la sociedad y nos comprometemos a un uso ético y responsable de los datos.
 
-Agilidad: Somos flexibles y rápidos para adaptarnos a los cambios del entorno y responder a las nuevas oportunidades del mercado.
+*Agilidad*: Somos flexibles y rápidos para adaptarnos a los cambios del entorno y responder a las nuevas oportunidades del mercado.
 
 ## Contexto
 Un inversor nos contrató para realizar un análisis de mercado y ofrecerle diferentes propuestas de negocios para invertir su capital en la ciudad de Filadelfia, USA. Usaremos reseñas obtenidas de Yelp y Google maps, para determinar el mejor rubro y las mejores ubicaciones para nuevos locales.
@@ -77,11 +78,21 @@ El enfoque de nuestro alcance es toda el área comercial que hay en la ciudad de
 Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos realizar un análisis riguroso para sugerir las áreas de inversión más favorables, mediante un sistema predictivo que detecte patrones a partir de datos clave del mercado.
 
 1. Recopilar datos
-* Extrar y limpiar los datos de Google Yelps y Google Maps
-* Integrar estos datos en un Data Warehouse que permita el acceso y manipulas grandes volumenes de datos.
-2. 
+    * Extraer y limpiar los datos de Yelp y Google Maps.
+    * Integrar estos datos en un Data Warehouse que permita el acceso y manipulación de grandes volúmenes de datos.
 
-3. 
+2. Análisis Exploratorio de Datos (EDA)
+    * Realizar un EDA completo para identificar las principales categorías de negocio y ubicaciones más frecuentadas.
+    * Evaluar la distribución geográfica y demográfica de los locales comerciales en Filadelfia.
+    * Analizar las puntuaciones y reseñas para obtener insights sobre la satisfacción de los clientes.
+
+3. Modelado Predictivo
+    * Desarrollar un modelo de machine learning que permita predecir la viabilidad de nuevas inversiones en función de variables clave como ubicación, categoría de negocio y puntuaciones de reseñas.
+    * Aplicar técnicas de procesamiento de lenguaje natural (NLP) para extraer información valiosa de las reseñas, identificando tendencias y opiniones comunes de los usuarios.
+4. Propuesta de Inversión
+
+    * Proporcionar un informe detallado con recomendaciones basadas en los análisis realizados, identificando las mejores oportunidades de inversión en la ciudad de Filadelfia.
+    * Desarrollar un sistema de visualización de datos que permita a los inversores interactuar con las predicciones y análisis, facilitando la toma de decisiones estratégicas.
 
 
 <!--  KPI -->
