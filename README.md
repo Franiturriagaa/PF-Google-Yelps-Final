@@ -1,6 +1,26 @@
 # Proyecto-Final-Google-Yelps
+
 ## OpportUnity Team
 ![Portada](./Data/Images/OpporUnity_Banner.png)
+
+
+<!-- TABLA DE CONTENIDO -->
+
+
+## ¿Quiénes Somos?
+1. [Integrantes](#integrantes-y-roles)
+2. [Misión](#misión)
+3. [Visión](#visión)
+4. [Valores](#valores)
+
+
+## Proyecto Salford-Filadelfia
+1. [Objetivos Específicos](#objetivos-específicos)
+3. [Stack Tecnológico](#stack-tecnológico)
+3. [EDA](#análisis-exploratorio-de-datos)
+4. [KPI's](#key-performance-indicators-kpis)
+5. [Datasets](#datasets-y-fuentes-complementarias)
+6. [Estructura](#estructura-del-proyecto)
 
 
 <!-- PARTE INTEGRANTES Y ROLES -->
@@ -13,28 +33,6 @@
 * Valentin Testa: Data Analyst.
 * Francisco Iturriaga: Data Analyst.
 * Pablo Cesar: Machine Learning Ops.
-
-
-<!-- ESTRUCTURA DEL PROYECTO -->
-
-
-## Estructura del Proyecto
-* Data/ : Contiene los archivos de datos utilizados en el proyecto
-* Notebooks/ : notebooks de Jupyter con el análisis y modelos.
-* ETL/ : notebooks de Jupyter con el trabajo sobre los datos.
-* ML / : el modelo de ML
-
-
-<!-- TABLA DE CONTENIDO -->
-
-
-## Tabla de contenido
-1. [Objetivos Específicos](#objetivos-específicos)
-2. [KPI's](#key-performance-indicators-kpis)
-3. [Stack Tecnológico](#stack-tecnológico)
-4. [EDA](#análisis-exploratorio-de-datos)
-5. [Datasets](#datasets-y-fuentes-complementarias)
-
 
 
 <!-- INTRODUCCION -->
@@ -64,14 +62,26 @@ Ser líderes en la creación de soluciones inteligentes y personalizadas a trav�
 
 *Agilidad*: Somos flexibles y rápidos para adaptarnos a los cambios del entorno y responder a las nuevas oportunidades del mercado.
 
+
+<!-- PROYECTO SALFORD-FILADELFIA -->
+
+
+# Proyecto Salford-Filadelfia
+
+
+<!-- Contexto -->
+
+
 ## Contexto
 Un inversor nos contrató para realizar un análisis de mercado y ofrecerle diferentes propuestas de negocios para invertir su capital en la ciudad de Filadelfia, USA. Usaremos reseñas obtenidas de Yelp y Google maps, para determinar el mejor rubro y las mejores ubicaciones para nuevos locales.
+
+<!-- Alcance -->
 
 ## Alcance
 El enfoque de nuestro alcance es toda el área comercial que hay en la ciudad de Filadelfia (EE.UU),  entre 2015 y 2022.
 
 
-<!-- Trabajar en Objetivos Especificos -->
+<!-- Objetivos Especificos -->
 
 
 ## Objetivos Específicos
@@ -199,6 +209,19 @@ Los datos son extraídos de la plataforma de reseñas **Yelp** y de **Google Map
 
 - [Demo 1](https://view.genially.com/66e3ba6323483daa2b09b4b3/dossier-opportunity-demo-1)
 - [Demo 2](https://view.genially.com/66e9e7231311c2e19a16d0a6/dossier-opportunity-demo-2)
+
+
+
+<!-- ESTRUCTURA DEL PROYECTO -->
+
+
+## Estructura del Proyecto
+* Data/ : Contiene los archivos de datos utilizados en el proyecto
+* Notebooks/ : notebooks de Jupyter con el análisis y modelos.
+* ETL/ : notebooks de Jupyter con el trabajo sobre los datos.
+* ML / : el modelo de ML
+
+
 -----
 -----
 -----
