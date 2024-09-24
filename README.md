@@ -20,10 +20,9 @@
 
 ## Estructura del Proyecto
 * Data/ : Contiene los archivos de datos utilizados en el proyecto
-* Notebooks/ : Incluye los notebooks de Jupyter con el análisis y modelos.
-* ETL/ :
-* Reports/ :
-* ML / :
+* Notebooks/ : notebooks de Jupyter con el análisis y modelos.
+* ETL/ : notebooks de Jupyter con el trabajo sobre los datos.
+* ML / : el modelo de ML
 
 
 <!-- TABLA DE CONTENIDO -->
@@ -31,9 +30,10 @@
 
 ## Tabla de contenido
 1. [Objetivos Específicos](#objetivos-específicos)
-2. [KPI's](#kpi's)
+2. [KPI's](#key-performance-indicators-kpis)
 3. [Stack Tecnológico](#stack-tecnológico)
 4. [EDA](#análisis-exploratorio-de-datos)
+
 
 
 <!-- INTRODUCCION -->
@@ -84,7 +84,7 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 3. 
 
 
-<!-- Trabajar en KPI -->
+<!--  KPI -->
 
 
 ## KPI's
