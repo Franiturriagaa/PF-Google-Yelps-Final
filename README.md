@@ -69,6 +69,9 @@ Ser líderes en la creación de soluciones inteligentes y personalizadas a trav�
 # Proyecto Salford-Filadelfia
 
 
+![Proyecto Salford-Filadelfia](./Data/Images/Salford-Filadelfia.png)
+
+
 <!-- Contexto -->
 
 
