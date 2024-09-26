@@ -16,11 +16,12 @@
 
 ## Proyecto Salford-Filadelfia
 1. [Objetivos Específicos](#objetivos-específicos)
-3. [Stack Tecnológico](#stack-tecnológico)
+2. [Stack Tecnológico](#stack-tecnológico)
 3. [EDA](#análisis-exploratorio-de-datos)
-4. [KPI's](#key-performance-indicators-kpis)
-5. [Datasets](#datasets-y-fuentes-complementarias)
-6. [Estructura](#estructura-del-proyecto)
+4. [MODELO ML](#modelo-machine-learning)
+5. [KPI's](#key-performance-indicators-kpis)
+6. [Datasets](#datasets-y-fuentes-complementarias)
+7. [Estructura](#estructura-del-proyecto)
 
 
 <!-- PARTE INTEGRANTES Y ROLES -->
@@ -183,6 +184,13 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 ![Top20Categorias](./Data/Images/Top_Categorias.png)
 
 
+<!-- MODELO ML -->
+
+
+## Modelo Machine Learning
+
+- [Modelo Machine Learning](https://pfappapp-cspnibhve4hyda4hv7mkzs.streamlit.app/)
+
 <!-- DIAGRAMA GANTT -->
 
 
@@ -212,7 +220,7 @@ Los datos son extraídos de la plataforma de reseñas **Yelp** y de **Google Map
 
 - [Demo 1](https://view.genially.com/66e3ba6323483daa2b09b4b3/dossier-opportunity-demo-1)
 - [Demo 2](https://view.genially.com/66e9e7231311c2e19a16d0a6/dossier-opportunity-demo-2)
-
+- [Demo 3]()
 
 
 <!-- ESTRUCTURA DEL PROYECTO -->
