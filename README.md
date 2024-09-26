@@ -17,11 +17,12 @@
 ## Proyecto Salford-Filadelfia
 1. [Objetivos Específicos](#objetivos-específicos)
 2. [Stack Tecnológico](#stack-tecnológico)
-3. [EDA](#análisis-exploratorio-de-datos)
-4. [MODELO ML](#modelo-machine-learning)
-5. [KPI's](#key-performance-indicators-kpis)
-6. [Datasets](#datasets-y-fuentes-complementarias)
-7. [Estructura](#estructura-del-proyecto)
+3. [Diagrama Gantt](#diagrama-de-ganttproject-division-de-tareas-claras)
+4. [EDA](#análisis-exploratorio-de-datos)
+5. [MODELO ML](#modelo-machine-learning)
+6. [KPI's](#key-performance-indicators-kpis)
+7. [Datasets](#datasets-y-fuentes-complementarias)
+8. [Estructura](#estructura-del-proyecto)
 
 
 <!-- PARTE INTEGRANTES Y ROLES -->
@@ -166,6 +167,16 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 <img src="Data\Images\Icons\streamlit-original.svg" title="VSCode" alt="vscode" width="40" height="40"/> Streamlit
 
 
+<!-- DIAGRAMA GANTT -->
+
+
+## Diagrama de GanttProject (Division de tareas claras)
+![DiagramaGanttProject](./Data/Images/Diagrama_Gantt_Project.png)
+
+## Diagrama hecho en Asana (A quien se le asigna cada tarea)
+![DiagramaGanttProject](./Data/Images/Diagrama_Gantt_Asana.png)
+
+
 <!-- PIPELINE -->
 
 
@@ -190,15 +201,6 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 ## Modelo Machine Learning
 
 - [Modelo Machine Learning](https://pfappapp-cspnibhve4hyda4hv7mkzs.streamlit.app/)
-
-<!-- DIAGRAMA GANTT -->
-
-
-## Diagrama de GanttProject (Division de tareas claras)
-![DiagramaGanttProject](./Data/Images/Diagrama_Gantt_Project.png)
-
-## Diagrama hecho en Asana (A quien se le asigna cada tarea)
-![DiagramaGanttProject](./Data/Images/Diagrama_Gantt_Asana.png)
 
 
 <!-- DATASETS Y FUENTES COMPLEMENTARIAS -->
