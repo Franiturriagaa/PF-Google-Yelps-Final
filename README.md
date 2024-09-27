@@ -126,6 +126,7 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 
    ![Formula 3](Data/Images/KPI_3.png)
 
+* Aclaración: Los KPI's planteados estan pensados como medidores de popularidad y sentimiento para ser utilizados una vez se establezca un negocio.
 
 <!-- STACK TECNOLOGICO -->
 
