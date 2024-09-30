@@ -202,6 +202,7 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 ## Modelo Machine Learning
 
 - [Modelo Machine Learning](https://pfappapp-cspnibhve4hyda4hv7mkzs.streamlit.app/)
+![Streamlit](./Data/Images/Streamlit.png)
 
 
 <!-- DATASETS Y FUENTES COMPLEMENTARIAS -->
